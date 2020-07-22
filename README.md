@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on ReacJS
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning: GraphQL, NestJS, NODEJS, MongoDB
 - 👯 I’m looking to collaborate on JavaScript
 - 🤔 I’m looking for help with Serverside development
 - 💬 Ask me about JavaScript
